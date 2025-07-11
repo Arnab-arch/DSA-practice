@@ -1,14 +1,32 @@
-📂 DSA Practice — Striver A2Z Sheet
-This repo contains my journey through the Striver A2Z DSA Sheet.
+# 📊 DSA Practice – Striver A2Z Sheet
 
-🧠 What’s inside:
+This repository contains my solutions to the **Striver A2Z DSA Sheet** using Python. I'm solving each question step-by-step with clean, readable code and consistent GitHub commits.
 
-✅ 50+ solved DSA problems in Python
+## ✅ Topics Covered
 
-📁 Categorized under Arrays/ (more folders coming soon)
+- Arrays (50+ questions completed ✅)
+- Searching, Sorting, Binary Search (Coming soon)
+- Recursion, Strings, Linked Lists (Planned)
 
-📌 Clean code, no fluff — built for interviews and logic mastery
+## 🔧 Tech Used
+- Python
+- Git & GitHub
+- VS Code
 
-📅 Current Status:
-✔️ 50 problems solved
-🏃 Working on Binary Search next...
+## 📅 Progress Tracker
+
+| Topic       | Status     | Questions |
+|-------------|------------|-----------|
+| Arrays      | ✅ Done     | 50+       |
+| Searching   | ⏳ Ongoing  | –         |
+| Sorting     | ⏳ Planned  | –         |
+
+## 📌 Why This Repo?
+
+I built this repo to:
+- Practice DSA like a beast 🧠
+- Prepare for placements 💼
+- Prove my consistency and learning mindset publicly 🔥
+
+## 📂 Folder Structure
+
