@@ -13,13 +13,6 @@ This repository contains my solutions to the **Striver A2Z DSA Sheet** using Pyt
 - Git & GitHub
 - VS Code
 
-## 📅 Progress Tracker
-
-| Topic       | Status     | Questions |
-|-------------|------------|-----------|
-| Arrays      | ✅ Done     | 50+       |
-| Searching   | ⏳ Ongoing  | –         |
-| Sorting     | ⏳ Planned  | –         |
 
 ## 📌 Why This Repo?
 
