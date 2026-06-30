@@ -51,6 +51,7 @@ I built this repo to:
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arnab-arch/DSA-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Arnab-arch/DSA-practice/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Arnab-arch/DSA-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/Arnab-arch/DSA-practice/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
@@ -61,9 +62,11 @@ I built this repo to:
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arnab-arch/DSA-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Arnab-arch/DSA-practice/tree/master/0076-minimum-window-substring) |
 | [0904-fruit-into-baskets](https://github.com/Arnab-arch/DSA-practice/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arnab-arch/DSA-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Arnab-arch/DSA-practice/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
