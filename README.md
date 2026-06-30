@@ -55,6 +55,7 @@ I built this repo to:
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arnab-arch/DSA-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Arnab-arch/DSA-practice/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Arnab-arch/DSA-practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Arnab-arch/DSA-practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Arnab-arch/DSA-practice/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Arnab-arch/DSA-practice/tree/master/0904-fruit-into-baskets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Arnab-arch/DSA-practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -67,6 +68,7 @@ I built this repo to:
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arnab-arch/DSA-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Arnab-arch/DSA-practice/tree/master/0076-minimum-window-substring) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Arnab-arch/DSA-practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Arnab-arch/DSA-practice/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Arnab-arch/DSA-practice/tree/master/0904-fruit-into-baskets) |
 ## String
@@ -74,6 +76,7 @@ I built this repo to:
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arnab-arch/DSA-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Arnab-arch/DSA-practice/tree/master/0076-minimum-window-substring) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Arnab-arch/DSA-practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Arnab-arch/DSA-practice/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
