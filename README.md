@@ -31,6 +31,7 @@ I built this repo to:
 | ------- |
 | [0075-sort-colors](https://github.com/Arnab-arch/DSA-practice/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/Arnab-arch/DSA-practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/Arnab-arch/DSA-practice/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Arnab-arch/DSA-practice/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arnab-arch/DSA-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Arnab-arch/DSA-practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -49,6 +50,7 @@ I built this repo to:
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Arnab-arch/DSA-practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/Arnab-arch/DSA-practice/tree/master/0713-subarray-product-less-than-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -57,12 +59,14 @@ I built this repo to:
 | [0209-minimum-size-subarray-sum](https://github.com/Arnab-arch/DSA-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Arnab-arch/DSA-practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Arnab-arch/DSA-practice/tree/master/0567-permutation-in-string) |
+| [0713-subarray-product-less-than-k](https://github.com/Arnab-arch/DSA-practice/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Arnab-arch/DSA-practice/tree/master/0904-fruit-into-baskets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Arnab-arch/DSA-practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Arnab-arch/DSA-practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/Arnab-arch/DSA-practice/tree/master/0713-subarray-product-less-than-k) |
 ## Hash Table
 |  |
 | ------- |
