@@ -29,6 +29,7 @@ I built this repo to:
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Arnab-arch/DSA-practice/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Arnab-arch/DSA-practice/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/Arnab-arch/DSA-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Arnab-arch/DSA-practice/tree/master/0560-subarray-sum-equals-k) |
@@ -45,6 +46,7 @@ I built this repo to:
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Arnab-arch/DSA-practice/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Arnab-arch/DSA-practice/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Arnab-arch/DSA-practice/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arnab-arch/DSA-practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -74,6 +76,7 @@ I built this repo to:
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arnab-arch/DSA-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Arnab-arch/DSA-practice/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Arnab-arch/DSA-practice/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/Arnab-arch/DSA-practice/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Arnab-arch/DSA-practice/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -84,6 +87,7 @@ I built this repo to:
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arnab-arch/DSA-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Arnab-arch/DSA-practice/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Arnab-arch/DSA-practice/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/Arnab-arch/DSA-practice/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Arnab-arch/DSA-practice/tree/master/0438-find-all-anagrams-in-a-string) |
