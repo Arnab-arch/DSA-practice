@@ -46,6 +46,7 @@ I built this repo to:
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Arnab-arch/DSA-practice/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/Arnab-arch/DSA-practice/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arnab-arch/DSA-practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -74,6 +75,7 @@ I built this repo to:
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arnab-arch/DSA-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Arnab-arch/DSA-practice/tree/master/0076-minimum-window-substring) |
+| [0242-valid-anagram](https://github.com/Arnab-arch/DSA-practice/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Arnab-arch/DSA-practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Arnab-arch/DSA-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Arnab-arch/DSA-practice/tree/master/0567-permutation-in-string) |
@@ -83,6 +85,7 @@ I built this repo to:
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arnab-arch/DSA-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Arnab-arch/DSA-practice/tree/master/0076-minimum-window-substring) |
+| [0242-valid-anagram](https://github.com/Arnab-arch/DSA-practice/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Arnab-arch/DSA-practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Arnab-arch/DSA-practice/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
