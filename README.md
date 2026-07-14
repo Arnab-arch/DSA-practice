@@ -35,6 +35,7 @@ I built this repo to:
 | [0560-subarray-sum-equals-k](https://github.com/Arnab-arch/DSA-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Arnab-arch/DSA-practice/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Arnab-arch/DSA-practice/tree/master/0713-subarray-product-less-than-k) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Arnab-arch/DSA-practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0904-fruit-into-baskets](https://github.com/Arnab-arch/DSA-practice/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arnab-arch/DSA-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Arnab-arch/DSA-practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -57,6 +58,7 @@ I built this repo to:
 | [0209-minimum-size-subarray-sum](https://github.com/Arnab-arch/DSA-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/Arnab-arch/DSA-practice/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Arnab-arch/DSA-practice/tree/master/0713-subarray-product-less-than-k) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Arnab-arch/DSA-practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
