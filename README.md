@@ -33,6 +33,7 @@ I built this repo to:
 | [0075-sort-colors](https://github.com/Arnab-arch/DSA-practice/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/Arnab-arch/DSA-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Arnab-arch/DSA-practice/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/Arnab-arch/DSA-practice/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Arnab-arch/DSA-practice/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Arnab-arch/DSA-practice/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arnab-arch/DSA-practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -54,6 +55,7 @@ I built this repo to:
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Arnab-arch/DSA-practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/Arnab-arch/DSA-practice/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Arnab-arch/DSA-practice/tree/master/0713-subarray-product-less-than-k) |
 ## Sliding Window
 |  |
