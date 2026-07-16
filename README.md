@@ -33,6 +33,7 @@ I built this repo to:
 | [0057-insert-interval](https://github.com/Arnab-arch/DSA-practice/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/Arnab-arch/DSA-practice/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/Arnab-arch/DSA-practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Arnab-arch/DSA-practice/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Arnab-arch/DSA-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Arnab-arch/DSA-practice/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Arnab-arch/DSA-practice/tree/master/0713-subarray-product-less-than-k) |
@@ -52,11 +53,13 @@ I built this repo to:
 | [0049-group-anagrams](https://github.com/Arnab-arch/DSA-practice/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Arnab-arch/DSA-practice/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Arnab-arch/DSA-practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Arnab-arch/DSA-practice/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arnab-arch/DSA-practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Arnab-arch/DSA-practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Arnab-arch/DSA-practice/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Arnab-arch/DSA-practice/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Arnab-arch/DSA-practice/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Arnab-arch/DSA-practice/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -84,6 +87,7 @@ I built this repo to:
 | [0049-group-anagrams](https://github.com/Arnab-arch/DSA-practice/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Arnab-arch/DSA-practice/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/Arnab-arch/DSA-practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Arnab-arch/DSA-practice/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Arnab-arch/DSA-practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Arnab-arch/DSA-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Arnab-arch/DSA-practice/tree/master/0567-permutation-in-string) |
@@ -101,4 +105,12 @@ I built this repo to:
 |  |
 | ------- |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Arnab-arch/DSA-practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Arnab-arch/DSA-practice/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Arnab-arch/DSA-practice/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
