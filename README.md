@@ -29,6 +29,7 @@ I built this repo to:
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Arnab-arch/DSA-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/Arnab-arch/DSA-practice/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/Arnab-arch/DSA-practice/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/Arnab-arch/DSA-practice/tree/master/0075-sort-colors) |
@@ -58,6 +59,7 @@ I built this repo to:
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Arnab-arch/DSA-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Arnab-arch/DSA-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Arnab-arch/DSA-practice/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Arnab-arch/DSA-practice/tree/master/0704-binary-search) |
