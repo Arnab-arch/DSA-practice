@@ -33,6 +33,7 @@ I built this repo to:
 | [0049-group-anagrams](https://github.com/Arnab-arch/DSA-practice/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/Arnab-arch/DSA-practice/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/Arnab-arch/DSA-practice/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Arnab-arch/DSA-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arnab-arch/DSA-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Arnab-arch/DSA-practice/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Arnab-arch/DSA-practice/tree/master/0209-minimum-size-subarray-sum) |
@@ -62,6 +63,7 @@ I built this repo to:
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Arnab-arch/DSA-practice/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Arnab-arch/DSA-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arnab-arch/DSA-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Arnab-arch/DSA-practice/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Arnab-arch/DSA-practice/tree/master/0209-minimum-size-subarray-sum) |
