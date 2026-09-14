@@ -39,6 +39,7 @@ I built this repo to:
 | [0209-minimum-size-subarray-sum](https://github.com/Arnab-arch/DSA-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Arnab-arch/DSA-practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Arnab-arch/DSA-practice/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arnab-arch/DSA-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Arnab-arch/DSA-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Arnab-arch/DSA-practice/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Arnab-arch/DSA-practice/tree/master/0713-subarray-product-less-than-k) |
@@ -100,6 +101,7 @@ I built this repo to:
 | [0242-valid-anagram](https://github.com/Arnab-arch/DSA-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Arnab-arch/DSA-practice/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Arnab-arch/DSA-practice/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arnab-arch/DSA-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Arnab-arch/DSA-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Arnab-arch/DSA-practice/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Arnab-arch/DSA-practice/tree/master/0904-fruit-into-baskets) |
