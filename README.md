@@ -36,6 +36,7 @@ I built this repo to:
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Arnab-arch/DSA-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arnab-arch/DSA-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Arnab-arch/DSA-practice/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Arnab-arch/DSA-practice/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Arnab-arch/DSA-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Arnab-arch/DSA-practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Arnab-arch/DSA-practice/tree/master/0268-missing-number) |
@@ -58,6 +59,7 @@ I built this repo to:
 | ------- |
 | [0049-group-anagrams](https://github.com/Arnab-arch/DSA-practice/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Arnab-arch/DSA-practice/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Arnab-arch/DSA-practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Arnab-arch/DSA-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Arnab-arch/DSA-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Arnab-arch/DSA-practice/tree/master/0268-missing-number) |
@@ -97,6 +99,7 @@ I built this repo to:
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arnab-arch/DSA-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Arnab-arch/DSA-practice/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Arnab-arch/DSA-practice/tree/master/0076-minimum-window-substring) |
+| [0169-majority-element](https://github.com/Arnab-arch/DSA-practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Arnab-arch/DSA-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Arnab-arch/DSA-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Arnab-arch/DSA-practice/tree/master/0268-missing-number) |
@@ -126,4 +129,16 @@ I built this repo to:
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Arnab-arch/DSA-practice/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Arnab-arch/DSA-practice/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Arnab-arch/DSA-practice/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Arnab-arch/DSA-practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
