@@ -5,32 +5,22 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
-        # this answer is wrong because sliding window doesnt work for negative numbers in an array it breaks 
-        # l= 0 
-        # n=len(nums)
-        # sum=0
-        # counter=0 
-        # for r in range(n):
-        #     sum+=nums[r]
-        #     if sum==k:
-        #         counter+=r-l+1
-            
-        #     while sum > k :
-        #         sum-=nums[l]
-        #         l+=1
+        prefix = 0 
+        count = 0 
+        map = {0:1}
+        for num in nums : 
+            prefix+=num
+            if prefix - k in map : 
+                count+= map[prefix-k]
+            map[prefix]= map.get(prefix , 0) +1 
+        return count 
 
-            
-        # return counter
-        sum =0
-        prefixmap={0:1}
-        count=0
-        for num in nums:
-            sum+=num
+        
+        
 
-            if sum-k in prefixmap:
-                count+=prefixmap[sum-k]
-            prefixmap[sum]=prefixmap.get(sum,0)+1
-        return count
+        
 
-    
 
+
+
+        
